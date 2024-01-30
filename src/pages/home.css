@@ -1,0 +1,24 @@
+.cafenea-home {
+    text-align: center;
+  }
+  
+.banner img {
+  width: 100%;
+  height: auto;
+}
+
+.banner h1 {
+  margin-top: 20px;
+  font-size: 2em;
+  color: #4e342e; 
+}
+  
+.about{
+  text-align: center;
+  border-style: dotted;
+  background-color: bisque;
+}
+
+.cafenea-home {
+  background-color: bisque;
+}
